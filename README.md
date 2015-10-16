@@ -1,2 +1,2 @@
 # DataStructure
-Some algorithm in data structure.  
+Some algorithms in data structure.  
